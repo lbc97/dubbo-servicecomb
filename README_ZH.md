@@ -96,7 +96,7 @@ dubbo.servicecomb.governance: {"providerInfos":[{"serviceName":"price-provider",
 [dubbo-servicecomb-sample](https://github.com/huaweicse/dubbo-servicecomb-samples) 提供了使用 dubbo-servicecomb 接入的例子。 可以下载
 示例进行本地体验， 本章节简单介绍一个 dubbo 应用， 快速使用 dubbo-servicecomb 接入微服务引擎的过程。 
 
-* 下载[本地微服务引擎](https://support.huaweicloud.com/productdesc-servicestage/cse_productdesc_0012.html), 解压后运行
+* 下载[本地微服务引擎](https://support.huaweicloud.com/devg-cse/cse_devg_0036.html), 解压后运行
     `start.bat` 启动。 工具会安装注册中心、配置中心，以及控制台。 安装完毕后， 通过 `http://localhost:30106/` 可以访问控制台。
 
 * POM 中引入依赖
